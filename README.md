@@ -1,5 +1,3 @@
 # Mystagram
 Project learning JS
-Update
-1234
-++++++++++
+update readme
